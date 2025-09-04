@@ -15,3 +15,11 @@ ax.legend()
 plt.title('Diagrama Fasorial')  
 plt.grid()
 plt.show()  
+
+# Programa básico en Python
+
+# Pedir al usuario su nombre
+nombre = input("¿Cómo te llamas? ")
+
+# Mostrar un saludo
+print("Hola,", nombre, "¡bienvenido a Python!")
